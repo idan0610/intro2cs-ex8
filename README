@@ -1,0 +1,37 @@
+idan0610
+305681132
+Idan Refaeli
+
+I discussed the exercise with: Eyel Cohen, Amit Tropp.
+
+=============================
+=  README for ex8  =
+=============================
+
+usage: python3.4 asteroidsMain.py <num_of_asteroids>
+
+==================
+=  Description:  =
+==================
+1. asteroidsMain.py - Functions cares for the running of the game
+2. README - This file
+
+=============================
+=  List of submitted files: =
+=============================
+
+asteroidsMain.py
+README
+
+======================
+=  Special Comments  =
+======================
+- I enjoyed the Targil and the using of the API. I think the API is very clear
+and useful.
+
+- On game_loop I chose to run the function cares for checking if the spaceship
+got his by an asteroid before the function for removing dead asteroids and
+torpedoes in order to add the asteroid that hit the spaceship to the list of
+dead asteroids before their removing if necessary
+
+- I made the task in bonus 2 on main()
